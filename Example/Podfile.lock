@@ -1,0 +1,17 @@
+PODS:
+  - FBSnapshotTestCase (1.6)
+  - PGPKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - PGPKit (from `../`)
+
+EXTERNAL SOURCES:
+  PGPKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 9d5fe43b29ae3a0ed8fc829477971b281038f748
+  PGPKit: cb5c238133d88124dc52c225a23359e5ad9878c4
+
+COCOAPODS: 0.35.0
